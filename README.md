@@ -22,3 +22,11 @@ is(2)=0
 ```
 
 [Article in DC](https://community.intersystems.com/post/function-check-if-string-json-object)
+
+[Demo Server SMP](https://isjson.demo.community.intersystems.com/csp/sys/UtilHome.csp)   
+[Demo Server WebTerminal](https://isjson.demo.community.intersystems.com/terminal/)    
+        
+**Code Quality**   
+<img width="85%" src="
+https://openexchange.intersystems.com/mp/img/packages/671/screenshots/4bh7tyapellnv0cjgw34riapcfo.jpg
+">
