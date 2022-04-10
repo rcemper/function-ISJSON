@@ -27,6 +27,4 @@ is(2)=0
 [Demo Server WebTerminal](https://isjson.demo.community.intersystems.com/terminal/)    
         
 **Code Quality**   
-<img width="85%" src="
-https://openexchange.intersystems.com/mp/img/packages/671/screenshots/4bh7tyapellnv0cjgw34riapcfo.jpg
-">
+<img width="85%" src="https://openexchange.intersystems.com/mp/img/packages/1759/screenshots/rp34k4oky4xiraymuiwpyesulca.jpg">
