@@ -1,4 +1,4 @@
-## function  to check string if JSON object
+## function  to check string if JSON object     
 It's also an example of a customized SystemFunction extension (ZZISJSON) in Caché & IRIS    
 This time it is to be included in %ZLANGF00.mac    
 
