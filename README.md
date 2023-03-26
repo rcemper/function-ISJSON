@@ -1,3 +1,5 @@
+<p align="right"><img src="https://github.com/isc-at/CPIPE/blob/master/archived.jpg"/></p>
+
 ## function  to check string if JSON object     
 It's also an example of a customized SystemFunction extension (ZZISJSON) in Caché & IRIS    
 This time it is to be included in %ZLANGF00.mac    
@@ -22,9 +24,3 @@ is(2)=0
 ```
 
 [Article in DC](https://community.intersystems.com/post/function-check-if-string-json-object)  
-
-[Demo Server SMP](https://isjson.demo.community.intersystems.com/csp/sys/UtilHome.csp)   
-[Demo Server WebTerminal](https://isjson.demo.community.intersystems.com/terminal/)    
-        
-**Code Quality**   
-<img width="85%" src="https://openexchange.intersystems.com/mp/img/packages/1759/screenshots/rp34k4oky4xiraymuiwpyesulca.jpg">
