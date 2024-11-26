@@ -8,7 +8,8 @@ A JSON string is mostly imported from file or over REST
 You rely on a clean and compatible structure. This is the check.   
 
 __required:__    ZPretty.mac  
-available here https://github.com/rcemper/ZPretty-1    
+available here https://github.com/rcemper/ZPretty-1 
+or included in this repo in ZZISJSON.xml for classic install
 or on OEX: https://openexchange.intersystems.com/package/ZPretty   
 or
 ```
