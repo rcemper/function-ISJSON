@@ -12,7 +12,7 @@ available here https://github.com/rcemper/ZPretty-1
 or on OEX: https://openexchange.intersystems.com/package/ZPretty   
 or
 ```
-USER>WPM "install pretty-json"
+USER>ZPM "install pretty-json"
 ```
 __demo__
 ```
