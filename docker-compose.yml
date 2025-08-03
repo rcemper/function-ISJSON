@@ -1,4 +1,3 @@
-version: '3.6'
 services:
   iris:
     build:
@@ -8,8 +7,8 @@ services:
     restart: always
     command: --check-caps false --ISCAgent false
     ports:
-      - 51663:1972
-      - 52663:52773
+      - 41663:1972
+      - 42663:52773
       - 53773
     volumes:
       - ./:/home/irisowner/dev
