@@ -1,4 +1,5 @@
-<p align="right"><img src="https://github.com/isc-at/CPIPE/blob/master/archived.jpg"/></p>
+<img src="https://community.intersystems.com/sites/default/files/inline/images/archived.gif" width=100></img>
+<b>&nbsp;no maintenance or update</b> 
 
 ## function  to check string if JSON object     
 It's also an example of a customized SystemFunction extension (ZZISJSON) in Caché & IRIS    
